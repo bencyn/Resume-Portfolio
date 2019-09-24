@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "/Users/bensonnganga/Documents/learning-next-js/next-learn-demo"
+	},
+	{
+		"path": "/Users/bensonnganga/Documents/react-nextjs"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "react-nextjs"
+  }
+}
