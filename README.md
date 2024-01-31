@@ -1,3 +1,3 @@
 # Resume-Portfolio
 
-[bencyn.github.io](https://bencyn.github.io/)https://bencyn.github.io/
+[bencyn.github.io](https://bencyn.github.io/)
